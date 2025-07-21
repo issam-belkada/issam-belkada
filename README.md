@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Issam Belkada</h1>
 
-I'm a dedicated **Computer Science student**, currently specializing in **Engineering and Management of Information Systems**.
+I'm a dedicated **Computer Science student**, currently specializing in **Information Systems Engineering and Management**.
 
 💡 Passionate about technology and continuous learning, I enjoy designing and building web applications that solve real-world problems.  
 🌍 My interests include **full-stack web development**, **intelligent systems**, and **software architecture**.  
