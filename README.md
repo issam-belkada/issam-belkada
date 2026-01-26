@@ -1,63 +1,63 @@
-<h1 align="center">👋 Hi, I'm Issam Belkada</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Issam%20Belkada&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-I'm a dedicated **Computer Science student**, currently specializing in **Information Systems Engineering and Management**.
+  <h3> 👨‍💻 Computer Science Student | Information Systems Engineering </h3>
 
-💡 Passionate about technology and continuous learning, I enjoy designing and building web applications that solve real-world problems.  
-🌍 My interests include **full-stack web development**, **intelligent systems**, and **software architecture**.  
-🚀 I'm always exploring new tools, frameworks, and ideas to grow as a developer and contribute to impactful projects.
-
-
-<p align="center">
-  <a href="https://github.com/issam-belkada">
-    <img src="https://github-readme-stats.vercel.app/api?username=issam-belkada&show_icons=true&theme=shades-of-purple&count_private=true" alt="Stats" />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=issam-belkada&theme=shades-of-purple&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=issam-belkada&theme=shades-of-purple&hide_border=true" alt="Streak" />
-  </a>
-</p>
-
-### 🛠️ Technologies & Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white" height="30" />
-</p>
-
+  <p align="center">
+    <a href="https://www.linkedin.com/in/issam-belkada-735886311/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:belkadaissam@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📫 How to reach me
+### ⚡ About Me
 
-<p align="left">
-  <a href="mailto:belkadaissam@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/issam-belkada-735886311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
+- 🚀 **Focus:** Specializing in **Information Systems Engineering and Management**.
+- 💡 **Passion:** Building scalable web applications and exploring intelligent systems.
+- 🎓 **Education:** Dedicated to mastering Software Architecture and Full-stack development.
+- 🎯 **Current Goal:** Contributing to impactful open-source projects and refining my system design skills.
 
 ---
 
-### ⚡ Fun fact  
-I'm always curious about how things work under the hood — whether it's client-server communication or how AI makes decisions.
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,php" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,html,css" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,figma" />
+
+</div>
+
+---
+
+### 📊 My GitHub Journey
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=issam-belkada&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=issam-belkada&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issam-belkada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+</div>
+
+---
+
+### 🧩 Fun Fact
+> **I'm always curious about how things work under the hood** — whether it's client-server handshakes or the logic behind AI decision-making. 🧠
 
 ---
 
 <div align="center">
-  <a href="https://github.com/issam-belkada">
-    <img src="https://komarev.com/ghpvc/?username=issam-belkada&color=ff69b4" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=issam-belkada&color=7d26cd&style=flat-square&label=PROFILE+VIEWS" />
+  <br>
+  <sub>Last updated: Jan 2026</sub>
 </div>
