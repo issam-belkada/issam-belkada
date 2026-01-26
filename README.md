@@ -28,11 +28,27 @@
 
 <div align="center">
 
+  <b>Languages & Logic</b><br>
   <img src="https://skillicons.dev/icons?i=java,python,c,javascript,php" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,html,css" />
+
+  <b>Frontend & Design</b><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,figma" />
+
+  <b>Backend & Frameworks</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,express" />
+  <br><br>
+
+  <b>Databases & Data Engineering</b><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle" />
+  <br>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <br><br>
+
+  <b>Workflow</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
