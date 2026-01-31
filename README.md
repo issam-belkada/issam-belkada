@@ -15,16 +15,16 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
-- 🚀 **Focus:** Specializing in **Information Systems Engineering and Management**.
-- 💡 **Passion:** Building scalable web applications and exploring intelligent systems.
-- 🎓 **Education:** Dedicated to mastering Software Architecture and Full-stack development.
-- 🎯 **Current Goal:** Contributing to impactful open-source projects and refining my system design skills.
+- **Focus:** Specializing in **Information Systems Engineering and Management**.
+- **Passion:** Building scalable web applications and exploring intelligent systems.
+- **Education:** Dedicated to mastering Software Architecture and Full-stack development.
+- **Current Goal:** Contributing to impactful open-source projects and refining my system design skills.
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### Tech Stack & Ecosystem
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 My GitHub Journey
+### My GitHub Journey
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=issam-belkada&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="170" />
@@ -67,7 +67,7 @@
 
 ---
 
-### 🧩 Fun Fact
+### Fun Fact
 > **I'm always curious about how things work under the hood** — whether it's client-server handshakes or the logic behind AI decision-making. 🧠
 
 ---
