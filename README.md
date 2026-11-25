@@ -1,118 +1,87 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Issam%20Belkada&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7d26cd&height=200&section=header&text=Issam%20Belkada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Information%20Systems%20%C2%B7%20Data%20%26%20ML&descSize=18&descAlignY=58" width="100%" alt="Issam Belkada banner" />
 
-  <h3>👨‍💻 Full-Stack Developer · Information Systems Engineering · Data & ML Enthusiast</h3>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/issam-belkada-735886311/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <p>
+    <a href="https://www.linkedin.com/in/issam-belkada-735886311/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:belkadaissam@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Open_to-Internship_2027-2ea44f?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Open_to-Internship_2027-2ea44f?style=for-the-badge" alt="Open to internship 2027" />
   </p>
 </div>
 
 ---
 
-### 👋 About Me
+## 👋 About me
 
-```js
-const issam = {
-  role: "L3 MIAGE student @ Université Paris Cité",
-  background: "Information Systems Engineering & Management (ENP Oran)",
-  focus: ["Full-stack web", "System design", "Data pipelines & ETL", "ML / RAG basics"],
-  lookingFor: "Internship, 10 weeks min (part-time Feb–May 2027, then full-time after exams)",
-  location: "Île-de-France, France",
-  languages: ["Français", "English", "العربية"],
-};
-```
+I'm a third-year Computer Science student (MIAGE track) at **Université Paris Cité**, building on four years of information systems engineering and management at the **École nationale polytechnique d'Oran**. I design and build web applications end to end, from the data model and API to the interface, and I'm growing into data and machine learning.
+
+- 🎓 L3 Informatique – MIAGE, Université Paris Cité
+- 📍 Île-de-France, France
+- 🔎 Looking for an **internship in 2027** (software / information systems / data)
+- 🗣️ French · English
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured projects
 
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **Dawadz** 🥈 *2nd place, Muhandis Hackathon* | Pharmaceutical supply-chain platform: patients find the nearest pharmacy with their medicine in stock (map route), pharmacies and suppliers manage stock, B2B marketplace, RAG health assistant | React, Laravel, PostgreSQL/PostGIS, Qwen API, RAG | [Repo](https://github.com/S1nju/dawadz) |
-| **Predictive Maintenance** *(DataHack)* | Real-time IIoT pipeline: sensors → MQTT → live dashboard, XGBoost failure detection with email alerts, Lambda architecture (TimescaleDB + daily ETL), RAG chatbot built on technicians' feedback | Python, MQTT, WebSocket, TimescaleDB, XGBoost, Laravel, React | [Repo](ADD_LINK) |
-| **Fleet Tracking** *(CETIC internship)* | Real-time vehicle tracking, mission-order control, automatic alerts (speeding, zone exit) | Laravel, React, Leaflet, WebSockets | Internship project |
-| **Research Project Management** *(CERIST internship)* | Validation workflow, deliverables tracking, KPI dashboard, auto-generated annual reports | Laravel, React, PostgreSQL | Internship project |
+| Project | What it does | Stack |
+|---|---|---|
+| **[Project name](https://github.com/issam-belkada/REPO)** | One sentence: the problem it solves and what you built | Laravel · React · PostgreSQL |
+| **[Project name](https://github.com/issam-belkada/REPO)** | One sentence: the problem it solves and what you built | Python · FastAPI |
+| **[Project name](https://github.com/issam-belkada/REPO)** | One sentence: the problem it solves and what you built | Python · ML |
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+## 🛠️ Tech stack
 
 <div align="center">
 
-  <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,php" />
-  <br><br>
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,php" alt="Languages" />
 
-  <b>Frontend</b><br>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-  <br><br>
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Frontend" />
 
-  <b>Backend & APIs</b><br>
-  <img src="https://skillicons.dev/icons?i=laravel,fastapi" />
-  <br>
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <br><br>
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=laravel,fastapi" alt="Backend" />
 
-  <b>Databases & Data Engineering</b><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle,neo4j" />
-  <br>
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/ETL-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
-  <br><br>
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,oracle,neo4j" alt="Databases" />
 
-  <b>AI & Machine Learning (fundamentals)</b><br>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-7B2FF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-1A6EBD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
-  <br><br>
+**Data & ML (fundamentals)**<br>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Deep_Learning-7B2FF7?style=flat-square" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/XGBoost-1A6EBD?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
 
-  <b>Tools & Workflow</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-  <br>
-  <img src="https://img.shields.io/badge/UML-EC1C24?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" alt="Tools" />
 
 </div>
 
 ---
 
-### 📈 My GitHub Journey
+## 🌱 Currently exploring
+
+- Building APIs with **FastAPI**
+- Applied machine learning and RAG pipelines
+- Software design and modelling with **UML**
+
+---
+
+## 📈 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=issam-belkada&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=issam-belkada&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=issam-belkada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issam-belkada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issam-belkada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-</div>
-
----
-
-### 🌱 Currently Exploring
-- Data engineering: ETL, data warehouses, real-time pipelines
-- Machine learning & RAG-based assistants
-- System design & scalable architectures
-
----
-
-### 💡 Fun Fact
-> **I'm always curious about how things work under the hood**, whether it's client-server handshakes or the logic behind AI decision-making. 🧠
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=issam-belkada&color=7d26cd&style=flat-square&label=PROFILE+VIEWS" />
+  <i>Curious about how things work under the hood, from client-server handshakes to ML decision logic.</i>
 </div>
